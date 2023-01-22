@@ -3,6 +3,7 @@ from tkinter import messagebox
 from random import randint, choice, shuffle
 import pyperclip
 import json
+
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 
 
